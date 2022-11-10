@@ -6,6 +6,7 @@ ___
 
 #### :link: Live Demo: 
 [Car application](https://olexander96.github.io/cars-shop-vue/)
+___
 
 #### :rocket: Technologies Used
 
